@@ -14,4 +14,4 @@ The project is still in the early stage, the data have been scraped and partiall
 
 
 - Geocode data
- - Calculate distance to neares
+-- Calculate distance to neares
